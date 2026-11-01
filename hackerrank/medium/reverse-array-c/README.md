@@ -27,7 +27,7 @@ The output is handled by the code given in the editor, which would print the arr
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-01T04:50:48.596Z  
+**Submitted:** 2026-11-01T04:50:54.916Z  
 
 ```c
 #include<stdio.h>
