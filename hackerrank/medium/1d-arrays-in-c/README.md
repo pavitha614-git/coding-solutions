@@ -30,7 +30,7 @@ Print the sum of the integers in the array.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-01T04:37:54.579Z  
+**Submitted:** 2026-11-05T16:49:12.840Z  
 
 ```c
 #include<stdio.h>
